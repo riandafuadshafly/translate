@@ -1,7 +1,7 @@
 import requests
 
 print(" [+]  Author    : Rianda Fuad Shafly")
-print(" [+]  Info      : Data Covid Indonesia")
+print(" [+]  Info      : Translate English to Indonesian")
 print(" [+]  Website   : www.riandafuadshafly.my.id")
 print(" [+]  Contact   : bangrianda456@gmail.com")
 print(" ---------------------------------------------")
