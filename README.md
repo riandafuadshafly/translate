@@ -1,5 +1,5 @@
 # translate
-<h2> Simple Translate English to Indonesian </h2>
+Simple Translate English to Indonesian
 <br>
 <br>
 $ git clone https://github.com/riandafuadshafly/translate <br>
